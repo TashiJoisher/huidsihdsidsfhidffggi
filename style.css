@@ -1,0 +1,39 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid whitesmoke;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+
+body{
+    background-image:url("pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg");
+    background-size: cover;
+    color:white ;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    box-shadow: 0 6px 8px 0 rgba(2,2,2,0.2);
+size: 100;
+}
+
+img:hover{
+    border-radius: 140px;
+}
